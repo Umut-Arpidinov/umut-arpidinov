@@ -4,7 +4,7 @@ Hi 👋 My name is Umut Arpidinov
 Android Developer/Software Engineer
 -----------------------------------
 
-As a junior Android developer, I am highly motivated and always eager to learn new technologies and techniques. With 1 year of experience developing mobile applications, I have gained practical experience in building mobile applications for android
+As an Android developer, I am highly motivated and always eager to learn new technologies and techniques. With 1 year of experience developing mobile applications, I have gained practical experience in building mobile applications for android
 
 * 🌍  I'm based in Kyrgyzstan
 * ✉️  You can contact me at [ymytbek0314@gmail.com](mailto:ymytbek0314@gmail.com)
